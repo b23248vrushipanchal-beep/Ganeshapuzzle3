@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/components/puzzlegame.tsx","./src/components/qrcodecard.tsx","./src/components/qrentrance.tsx","./src/components/qrscannerview.tsx","./src/lib/framer-shim.ts","./src/utils/cn.ts","./vite.config.ts"],"version":"5.9.3"}
